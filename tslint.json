@@ -6,6 +6,10 @@
         "tslint-config-prettier"
     ],
     "jsRules": {},
-    "rules": {},
+    "rules": {
+        "interface-name": false,
+        "no-console": false,
+        "member-access": false,
+    },
     "rulesDirectory": []
 }
